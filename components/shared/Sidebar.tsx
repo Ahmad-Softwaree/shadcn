@@ -84,7 +84,7 @@ export function Sidebar() {
       {/* Logo/Brand */}
       <SidebarHeader>
         <div className="px-2 py-2">
-          <h2 className="text-xl font-bold bg-gradient-to-r from-violet-600 to-indigo-600 bg-clip-text text-transparent">
+          <h2 className="english_font text-xl font-bold bg-gradient-to-r from-violet-600 to-indigo-600 bg-clip-text text-transparent">
             {t("home.title")}
           </h2>
         </div>

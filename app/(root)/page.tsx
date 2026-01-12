@@ -21,7 +21,7 @@ export default function Home() {
         <div className="flex flex-col items-center justify-center gap-8 text-center">
           <StaggerItem>
             <ScaleIn duration={0.6}>
-              <h1 className="text-6xl font-bold tracking-tighter sm:text-7xl md:text-8xl lg:text-9xl">
+              <h1 className="english_font text-6xl font-bold tracking-tighter sm:text-7xl md:text-8xl lg:text-9xl">
                 <AuroraText>{t("home.title")}</AuroraText>
               </h1>
             </ScaleIn>

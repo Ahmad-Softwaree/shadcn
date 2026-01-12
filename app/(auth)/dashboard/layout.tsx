@@ -21,7 +21,7 @@ export default function DashboardLayout({
       <SidebarInset className="p-0 ">
         <Header />
 
-        <div className="min-h-screen px-5 md:px-10">
+        <div className="min-h-screen px-5 md:px-10 mt-5">
           <div className="mb-6 flex items-center gap-2">
             <SidebarTrigger />
             <DashboardBreadcrumb />

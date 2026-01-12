@@ -27,11 +27,11 @@ export function Header() {
           </Button>
         </div>
         {/* Shadcn text big nice */}
-        <div className="flex justify-center mt-2">
-          <h1 className="text-3xl font-bold">
+        <Link href="/" className="flex justify-center mt-2">
+          <h1 className="english_font text-3xl font-bold">
             <AuroraText>{t("home.title")}</AuroraText>
           </h1>
-        </div>
+        </Link>
       </div>
     </header>
   );
