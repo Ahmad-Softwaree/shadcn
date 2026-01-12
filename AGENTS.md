@@ -1,8 +1,8 @@
-# Support Me - Shadcn UI Showcase Project
+# Shadcn - Shadcn UI Showcase Project
 
 ## 📋 Project Overview
 
-**Support Me** is a modern, beautifully crafted UI showcase project built to demonstrate the power and versatility of Shadcn UI components with Next.js. This is a **UI-only project** with no backend functionality or authentication - it's purely designed to showcase beautiful, accessible, and highly customizable UI components.
+**Shadcn** is a modern, beautifully crafted UI showcase project built to demonstrate the power and versatility of Shadcn UI components with Next.js. This is a **UI-only project** with no backend functionality or authentication - it's purely designed to showcase beautiful, accessible, and highly customizable UI components.
 
 ## 🎯 Purpose
 
@@ -50,7 +50,7 @@ The primary goal of this project is to:
 ## 📁 Project Structure
 
 ```
-support_me/
+shadcn/
 ├── app/                      # Next.js App Router pages
 │   ├── layout.tsx           # Root layout with providers
 │   ├── page.tsx             # Home page
@@ -87,7 +87,7 @@ support_me/
 
 1. **Home Page** (`/`)
 
-   - Centered logo and project name "Support Me"
+   - Centered logo and project name "Shadcn"
    - Three action buttons: Sign In, Sign Up, Dashboard
    - Beautiful stagger animations on load
    - Fully responsive design

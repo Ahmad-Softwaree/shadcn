@@ -25,7 +25,7 @@ export function Header() {
             </Link>
           </Button>
         </div>
-        {/* Support me text big nice */}
+        {/* Shadcn text big nice */}
         <div className="flex justify-center mt-2">
           <h1 className="text-3xl font-bold"> {t("home.title")}</h1>
         </div>

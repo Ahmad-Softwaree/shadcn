@@ -1,4 +1,4 @@
-# Support Me - Shadcn UI Showcase
+# Shadcn - Shadcn UI Showcase
 
 A beautiful, modern UI showcase project built with **Next.js 16**, **Shadcn UI**, and **Framer Motion**. This project demonstrates the power of Shadcn UI components with smooth animations, multi-language support, and theme switching.
 

@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Support Me - Shadcn UI Showcase",
+  title: "Shadcn - Shadcn UI Showcase",
   description: "A beautiful showcase of Shadcn UI components",
 };
 
