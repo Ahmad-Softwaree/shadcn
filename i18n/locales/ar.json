@@ -67,15 +67,6 @@
     "registerWithGmail": "التسجيل باستخدام Gmail",
     "registerWithGithub": "التسجيل باستخدام GitHub"
   },
-  "dashboard": {
-    "title": "لوحة التحكم",
-    "card1Title": "إجمالي المستخدمين",
-    "card1Description": "عدد المستخدمين المسجلين",
-    "card2Title": "الجلسات النشطة",
-    "card2Description": "الجلسات النشطة الحالية",
-    "card3Title": "تذاكر الدعم",
-    "card3Description": "تذاكر الدعم المفتوحة"
-  },
   "footer": {
     "builtBy": "تم البناء بواسطة",
     "portfolio": "المعرض"

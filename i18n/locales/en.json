@@ -73,15 +73,6 @@
     "dateOfBirthInvalid": "Please enter a valid date.",
     "termsRequired": "You must accept the terms and conditions."
   },
-  "dashboard": {
-    "title": "Dashboard",
-    "card1Title": "Total Users",
-    "card1Description": "Number of registered users",
-    "card2Title": "Active Sessions",
-    "card2Description": "Current active sessions",
-    "card3Title": "Support Tickets",
-    "card3Description": "Open support tickets"
-  },
   "footer": {
     "builtBy": "Built by",
     "portfolio": "Portfolio"
@@ -310,5 +301,4 @@
     "employees": "Employees",
     "accounts": "Accounts"
   }
-}
 }

@@ -67,15 +67,6 @@
     "registerWithGmail": "تۆمارکردن لەگەڵ Gmail",
     "registerWithGithub": "تۆمارکردن لەگەڵ GitHub"
   },
-  "dashboard": {
-    "title": "داشبۆرد",
-    "card1Title": "کۆی بەکارهێنەران",
-    "card1Description": "ژمارەی بەکارهێنەرە تۆمارکراوەکان",
-    "card2Title": "دانیشتنە چالاکەکان",
-    "card2Description": "دانیشتنە چالاکە ئێستاکان",
-    "card3Title": "تکتەکانی پشتیوانی",
-    "card3Description": "تکتەکانی پشتیوانی کراوە"
-  },
   "footer": {
     "builtBy": "دروستکراوە لەلایەن",
     "portfolio": "نمونەکارەکان"
