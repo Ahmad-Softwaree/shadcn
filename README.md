@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Support Me - Shadcn UI Showcase
 
-## Getting Started
+A beautiful, modern UI showcase project built with **Next.js 16**, **Shadcn UI**, and **Framer Motion**. This project demonstrates the power of Shadcn UI components with smooth animations, multi-language support, and theme switching.
 
-First, run the development server:
+## ✨ Features
+
+- 🎨 **Beautiful UI**: Built with Shadcn UI components
+- 🌓 **Dark/Light Mode**: Theme switching with next-themes
+- 🌍 **Multi-language**: Support for English, Arabic, and Kurdish
+- ⚡ **Smooth Animations**: Framer Motion animations throughout
+- 📱 **Responsive**: Mobile-first design
+- ♿ **Accessible**: Built with accessibility in mind
+- 🎯 **Type-safe**: Full TypeScript support
+- ✅ **Form Validation**: Zod schemas with React Hook Form
+- 🔔 **Toast Notifications**: Beautiful Sonner toasts
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Bun](https://bun.sh/) installed on your system
+
+### Installation
+
+1. Clone the repository
+2. Install dependencies:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
+bun install
+```
+
+3. Run the development server:
+
+```bash
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📱 Pages
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Home** (`/`) - Landing page with project title and navigation buttons
+- **Sign In** (`/signin`) - Sign-in form with validation
+- **Sign Up** (`/signup`) - Sign-up form with validation
+- **Dashboard** (`/dashboard`) - Simple dashboard placeholder
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: Next.js 16.1.1
+- **UI Library**: Shadcn UI
+- **Animations**: Framer Motion 12.26.1
+- **Forms**: React Hook Form 7.71.0 + Zod 4.3.5
+- **i18n**: i18next 25.7.4 + react-i18next 16.5.2
+- **Theme**: next-themes 0.4.6
+- **Notifications**: Sonner 2.0.7
+- **Icons**: Lucide React 0.562.0
+- **Styling**: Tailwind CSS 4
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📖 Documentation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+See [AGENTS.md](AGENTS.md) for detailed project documentation, architecture, and conventions.
 
-## Deploy on Vercel
+## 👨‍💻 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Ahmad Software**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Portfolio: [ahmad-software.com](https://www.ahmad-software.com/)
+- GitHub: [@Ahmad-Softwaree](https://github.com/Ahmad-Softwaree)
+
+## 📝 License
+
+This is a UI showcase project - feel free to use it as a reference or template for your own projects!

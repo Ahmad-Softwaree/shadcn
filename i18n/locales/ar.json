@@ -1,0 +1,75 @@
+{
+  "langs": {
+    "en": "English",
+    "ar": "العربية",
+    "ckb": "کوردی"
+  },
+  "home": {
+    "title": "ادعمني",
+    "description": "عرض جميل لمكونات Shadcn UI مع Next.js الحديثة",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "dashboard": "لوحة التحكم"
+  },
+  "login": {
+    "title": "مرحباً بعودتك",
+    "description": "أدخل بيانات الاعتماد الخاصة بك لتسجيل الدخول إلى حسابك",
+    "username": "اسم المستخدم",
+    "usernamePlaceholder": "أدخل اسم المستخدم",
+    "usernameHelper": "اسم المستخدم الفريد الخاص بك",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "passwordHelper": "يجب أن تكون 6 أحرف على الأقل",
+    "submit": "تسجيل الدخول",
+    "noAccount": "ليس لديك حساب؟",
+    "registerLink": "إنشاء حساب"
+  },
+  "register": {
+    "title": "إنشاء حساب",
+    "description": "أدخل معلوماتك لإنشاء حساب جديد",
+    "name": "الاسم الكامل",
+    "namePlaceholder": "أدخل اسمك الكامل",
+    "nameHelper": "اسم العرض الخاص بك",
+    "username": "اسم المستخدم",
+    "usernamePlaceholder": "اختر اسم مستخدم",
+    "usernameHelper": "اسم المستخدم الفريد الخاص بك",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "emailHelper": "لن نشارك بريدك الإلكتروني أبداً",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "إنشاء كلمة مرور",
+    "passwordHelper": "يجب أن تكون 6 أحرف على الأقل",
+    "submit": "إنشاء حساب",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "loginLink": "تسجيل الدخول"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "card1Title": "إجمالي المستخدمين",
+    "card1Description": "عدد المستخدمين المسجلين",
+    "card2Title": "الجلسات النشطة",
+    "card2Description": "الجلسات النشطة الحالية",
+    "card3Title": "تذاكر الدعم",
+    "card3Description": "تذاكر الدعم المفتوحة"
+  },
+  "footer": {
+    "builtBy": "تم البناء بواسطة",
+    "portfolio": "المعرض"
+  },
+  "validation": {
+    "nameMin": "يجب أن يكون الاسم على الأقل حرفين.",
+    "usernameMin": "يجب أن يكون اسم المستخدم على الأقل 3 أحرف.",
+    "emailInvalid": "يرجى إدخال عنوان بريد إلكتروني صحيح.",
+    "passwordMin": "يجب أن تكون كلمة المرور على الأقل 6 أحرف."
+  },
+  "toast": {
+    "loginSuccess": "نجح!",
+    "loginSuccessDescription": "تم تسجيل الدخول بنجاح",
+    "loginError": "خطأ",
+    "loginErrorDescription": "يرجى التحقق من بيانات الاعتماد الخاصة بك والمحاولة مرة أخرى",
+    "registerSuccess": "نجح!",
+    "registerSuccessDescription": "تم إنشاء حسابك",
+    "registerError": "خطأ",
+    "registerErrorDescription": "يرجى التحقق من معلوماتك والمحاولة مرة أخرى"
+  }
+}

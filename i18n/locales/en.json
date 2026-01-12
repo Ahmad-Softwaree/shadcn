@@ -1,0 +1,75 @@
+{
+  "langs": {
+    "en": "English",
+    "ar": "العربية",
+    "ckb": "کوردی"
+  },
+  "home": {
+    "title": "Support Me",
+    "description": "A beautiful showcase of Shadcn UI components with modern Next.js",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard"
+  },
+  "login": {
+    "title": "Welcome Back",
+    "description": "Enter your credentials to login to your account",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "usernameHelper": "Your unique username",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "passwordHelper": "Must be at least 6 characters",
+    "submit": "Login",
+    "noAccount": "Don't have an account?",
+    "registerLink": "Register"
+  },
+  "register": {
+    "title": "Create Account",
+    "description": "Enter your information to create a new account",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "nameHelper": "Your display name",
+    "username": "Username",
+    "usernamePlaceholder": "Choose a username",
+    "usernameHelper": "Your unique username",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "emailHelper": "We'll never share your email",
+    "password": "Password",
+    "passwordPlaceholder": "Create a password",
+    "passwordHelper": "Must be at least 6 characters",
+    "submit": "Register",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Login"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "card1Title": "Total Users",
+    "card1Description": "Number of registered users",
+    "card2Title": "Active Sessions",
+    "card2Description": "Current active sessions",
+    "card3Title": "Support Tickets",
+    "card3Description": "Open support tickets"
+  },
+  "footer": {
+    "builtBy": "Built by",
+    "portfolio": "Portfolio"
+  },
+  "validation": {
+    "nameMin": "Name must be at least 2 characters.",
+    "usernameMin": "Username must be at least 3 characters.",
+    "emailInvalid": "Please enter a valid email address.",
+    "passwordMin": "Password must be at least 6 characters."
+  },
+  "toast": {
+    "loginSuccess": "Success!",
+    "loginSuccessDescription": "You have successfully logged in",
+    "loginError": "Error",
+    "loginErrorDescription": "Please check your credentials and try again",
+    "registerSuccess": "Success!",
+    "registerSuccessDescription": "Your account has been created",
+    "registerError": "Error",
+    "registerErrorDescription": "Please check your information and try again"
+  }
+}

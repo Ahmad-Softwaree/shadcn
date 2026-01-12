@@ -1,0 +1,75 @@
+{
+  "langs": {
+    "en": "English",
+    "ar": "العربية",
+    "ckb": "کوردی"
+  },
+  "home": {
+    "title": "پشتیوانیم بکە",
+    "description": "نمایشێکی جوان بۆ پێکهاتەکانی Shadcn UI لەگەڵ Next.js مۆدێرن",
+    "login": "چوونەژوورەوە",
+    "register": "دروستکردنی هەژمار",
+    "dashboard": "داشبۆرد"
+  },
+  "login": {
+    "title": "بەخێربێیتەوە",
+    "description": "زانیاریەکانت بنووسە بۆ چوونەژوورەوە بۆ هەژمارەکەت",
+    "username": "ناوی بەکارهێنەر",
+    "usernamePlaceholder": "ناوی بەکارهێنەرەکەت بنووسە",
+    "usernameHelper": "ناوی بەکارهێنەری تایبەتی تۆ",
+    "password": "وشەی نهێنی",
+    "passwordPlaceholder": "وشەی نهێنیەکەت بنووسە",
+    "passwordHelper": "دەبێت لانیکەم ٦ پیت بێت",
+    "submit": "چوونەژوورەوە",
+    "noAccount": "هەژمارت نییە؟",
+    "registerLink": "دروستکردنی هەژمار"
+  },
+  "register": {
+    "title": "دروستکردنی هەژمار",
+    "description": "زانیاریەکانت بنووسە بۆ دروستکردنی هەژمارێکی نوێ",
+    "name": "ناوی تەواو",
+    "namePlaceholder": "ناوی تەواوت بنووسە",
+    "nameHelper": "ناوی نیشاندانی تۆ",
+    "username": "ناوی بەکارهێنەر",
+    "usernamePlaceholder": "ناوی بەکارهێنەرێک هەڵبژێرە",
+    "usernameHelper": "ناوی بەکارهێنەری تایبەتی تۆ",
+    "email": "ئیمەیڵ",
+    "emailPlaceholder": "ئیمەیڵەکەت بنووسە",
+    "emailHelper": "هەرگیز ئیمەیڵەکەت بڵاو ناکەینەوە",
+    "password": "وشەی نهێنی",
+    "passwordPlaceholder": "وشەیەکی نهێنی دروست بکە",
+    "passwordHelper": "دەبێت لانیکەم ٦ پیت بێت",
+    "submit": "دروستکردنی هەژمار",
+    "haveAccount": "پێشتر هەژمارت هەیە؟",
+    "loginLink": "چوونەژوورەوە"
+  },
+  "dashboard": {
+    "title": "داشبۆرد",
+    "card1Title": "کۆی بەکارهێنەران",
+    "card1Description": "ژمارەی بەکارهێنەرە تۆمارکراوەکان",
+    "card2Title": "دانیشتنە چالاکەکان",
+    "card2Description": "دانیشتنە چالاکە ئێستاکان",
+    "card3Title": "تکتەکانی پشتیوانی",
+    "card3Description": "تکتەکانی پشتیوانی کراوە"
+  },
+  "footer": {
+    "builtBy": "دروستکراوە لەلایەن",
+    "portfolio": "نمونەکارەکان"
+  },
+  "validation": {
+    "nameMin": "ناو دەبێت لانیکەم ٢ پیت بێت.",
+    "usernameMin": "ناوی بەکارهێنەر دەبێت لانیکەم ٣ پیت بێت.",
+    "emailInvalid": "تکایە ئیمەیڵێکی دروست بنووسە.",
+    "passwordMin": "وشەی نهێنی دەبێت لانیکەم ٦ پیت بێت."
+  },
+  "toast": {
+    "loginSuccess": "سەرکەوتوو بوو!",
+    "loginSuccessDescription": "بە سەرکەوتوویی چوویتە ژوورەوە",
+    "loginError": "هەڵە",
+    "loginErrorDescription": "تکایە زانیاریەکانت پشکنین بکەوە و دووبارە هەوڵ بدەرەوە",
+    "registerSuccess": "سەرکەوتوو بوو!",
+    "registerSuccessDescription": "هەژمارەکەت دروست کرا",
+    "registerError": "هەڵە",
+    "registerErrorDescription": "تکایە زانیاریەکانت پشکنین بکەوە و دووبارە هەوڵ بدەرەوە"
+  }
+}
