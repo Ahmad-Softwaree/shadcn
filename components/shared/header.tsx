@@ -6,6 +6,7 @@ import { Button } from "../ui/button";
 import Link from "next/link";
 import { Home } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { AuroraText } from "../ui/aurora-text";
 
 export function Header() {
   const { t } = useTranslation();
@@ -27,7 +28,9 @@ export function Header() {
         </div>
         {/* Shadcn text big nice */}
         <div className="flex justify-center mt-2">
-          <h1 className="text-3xl font-bold"> {t("home.title")}</h1>
+          <h1 className="text-3xl font-bold">
+            <AuroraText>{t("home.title")}</AuroraText>
+          </h1>
         </div>
       </div>
     </header>

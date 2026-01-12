@@ -9,6 +9,7 @@ export const getLoginSchema = (t: I18nType["t"]) =>
     password: z.string().min(6, {
       message: t("validation.passwordMin"),
     }),
+    rememberMe: z.boolean().optional(),
   });
 
 export type LoginInput = z.infer<ReturnType<typeof getLoginSchema>>;

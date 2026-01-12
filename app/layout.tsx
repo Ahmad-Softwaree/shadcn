@@ -6,6 +6,7 @@ import { Toaster } from "@/components/ui/sonner";
 import { Header } from "@/components/shared/header";
 import { Footer } from "@/components/shared/footer";
 import LanguageProvider from "@/providers/language-provider";
+import { ModalManager } from "@/components/shared/ModalManager";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -37,12 +38,9 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange>
           <LanguageProvider>
-            <div className="flex min-h-screen flex-col">
-              <Header />
-              <main className="flex-1">{children}</main>
-              <Footer />
-            </div>
+            <div className="flex min-h-screen flex-col">{children}</div>
             <Toaster />
+            <ModalManager />
           </LanguageProvider>
         </ThemeProvider>
       </body>
